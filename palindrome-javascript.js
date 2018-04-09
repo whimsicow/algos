@@ -11,3 +11,7 @@ function isPalindrome(str) {
     }
     return true;
 }
+
+// questions: 
+// 1. Is one letter a palindrome?
+// 2. Should we include symbols or only letters and numbers? 
