@@ -1,3 +1,0 @@
-# algos
-
-Practicing algos
